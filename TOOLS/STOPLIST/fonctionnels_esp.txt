@@ -1,0 +1,806 @@
+# Copyright (C) 2002-2009  Juan-Manuel Torres-Moreno
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+###########################################
+# palabras funcionales                    # 				
+# Version 1.1				  #
+# Creada    : 15 abril de 2003		  #
+# Modificada: 26 mayo  de 2005		  # 
+# Autores   : Juan Manuel Torres Moreno   #	
+#	      Patricia Velazquez Morales  #
+#					  #
+# http://juanmanuel.torres.free.fr                    #
+# juan-manuel.torres@univ-avignon.fr	#
+###########################################
+#################################
+#				#	
+#	a			#
+#				#	
+#################################
+a
+abajo
+adelante
+además
+adónde
+afuera
+afueras
+ajá
+ah
+ahi
+ahí
+ahora
+al
+algo
+algún
+alguna
+algunas
+alguno
+algunos
+allá
+alla
+allí
+alrededor
+ambos
+ante
+anteayer
+anterior
+anteriores
+anteriormente
+ante
+antes
+aparte
+apenas
+aproximadamente
+aquél
+aquélla
+aquéllas
+aquéllos
+aquel
+aquella
+aquellas
+aquello
+aquellos
+aquí
+aqui
+arriba
+asi
+así
+asimismo
+atrás
+aún
+aun
+aunque
+ay
+ayer
+#################################
+#				#	
+#	B			#
+#				#	
+#################################
+bah
+bajo
+bastante
+bastantes
+bien
+#################################
+#				#	
+#	C			#
+#				#	
+#################################
+cabe
+cada
+casi
+cerca
+cercas
+cercano
+cercanos
+cierto
+ciertos
+ciertas
+cierta
+ciertamente
+ciertos
+ciertísima
+ciertísimas
+ciertísimo
+ciertísimos
+clic
+como
+cómo
+comoquiera
+completamente
+con
+conmigo
+contigo
+consigo
+concerniente
+concernientes
+consequentemente
+contra
+cosa
+cosas
+cual
+cuál
+cuales
+cuáles
+cualesquier
+cualesquiera
+cualesquieras
+cualquier
+cualquiera
+cuán
+cuan
+cuando
+cuándo
+cuandoquiera
+cuanta
+cuanto
+cuantas
+cuantos
+cuánta
+cuánto
+cuántos
+cuántas
+cuya
+cuyas
+cuyo
+cuyos
+#################################
+#				#	
+#	CH			#
+#				#	
+#################################
+chas
+chau
+che
+chist
+chito
+chitón
+#################################
+#				#	
+#	D			#
+#				#	
+#################################
+de
+debajo
+definitivamente
+del
+demás
+demasiada
+demasiadas
+demasiado
+demasiados
+dentro
+desde
+después
+detrás
+diferente
+diferentes
+diversas
+diversos
+dónde
+donde
+dondequiera
+dondequieras
+durante
+#################################
+#				#	
+#	E			#
+#				#	
+#################################
+e
+efectivamente
+efectívamente
+eh
+el
+él
+ella
+ellas
+ello
+ellos
+en
+en medio de
+entonces
+entre
+entretanto
+ese
+ése
+esa
+ésa
+esas
+ésas
+eso
+esos
+ésos
+esta
+ésta
+estan
+éstas
+estas
+este
+éste
+esto
+estos
+éstos
+etc
+etcétera
+exactamente
+extra
+#################################
+#				#	
+#	F			#
+#				#	
+#################################
+#################################
+#				#	
+#	G			#
+#				#	
+#################################
+#################################
+#				#	
+#	H			#
+#				#	
+#################################
+hacia
+hasta
+harto
+harta
+hartos
+hartas
+hay
+helo
+hola
+hoy
+#################################
+#				#	
+#	I			#
+#				#	
+#################################
+idem
+igual
+incluso
+inmediata
+inmediato
+inmediatas
+inmediatos
+inmediatamente
+#################################
+#				#	
+#	J			#
+#				#	
+#################################
+ja
+jam
+jamás
+junto
+juntos
+#################################
+#				#	
+#	K			#
+#				#	
+#################################
+#################################
+#				#	
+#	L			#
+#				#	
+#################################
+la
+las
+le
+les
+lo
+los
+luego
+#################################
+#				#	
+#	M			#
+#				#	
+#################################
+mas
+más
+me
+mejor
+menos
+mi
+mí
+mientras
+mía
+mías
+mío
+míos
+mia
+mias
+mio
+mios
+mis
+misma
+mismo
+mismas
+mismos
+mucha
+muchas
+mucho
+muchos
+muy
+#################################
+#				#	
+#	N			#
+#				#	
+#################################
+nada
+nadie
+ni
+ningun
+ningún
+ninguno
+ninguna
+ningunas
+ningunos
+no
+nos
+nosotras
+nosotros
+nuestra
+nuestras
+nuestro
+nuestros
+nunca
+#################################
+#				#	
+#	šN			#
+#				#	
+#################################
+#################################
+#				#	
+#	O			#
+#				#	
+#################################
+o
+obstante
+ok
+oh
+os
+otra
+otras
+otro
+otros
+obvio
+obviamente
+#################################
+#				#	
+#	P			#
+#				#	
+#################################
+pa
+para
+pero
+poca
+pocas
+poco
+pocos
+por
+porque
+pos
+posteriormente
+prácticamente
+pronto
+#################################
+#				#	
+#	Q			#
+#				#	
+#################################
+que
+qué
+quién
+quien
+quiénes
+quienes
+quienquiera
+quizá
+quizás
+#################################
+#				#	
+#	R			#
+#				#	
+#################################
+rapida
+rapido
+rapidas
+rapidos
+rapidamente
+#################################
+#				#	
+#	S			#
+#				#	
+#################################
+se
+sea
+seguido
+seguida
+según
+si
+sí
+siempre
+siguiente
+siguientemente
+siguientes
+sin
+sino
+so
+sobre
+sola
+solamente
+sólo
+solo
+solos
+solas
+su
+súbitamente
+suficiente
+suficientes
+sus
+suya
+suyas
+suyo
+suyos
+#################################
+#				#	
+#	T			#
+#				#	
+#################################
+tal
+tales
+también
+tambien
+tampoco
+tan
+tanta
+tanto
+tantas
+tantos
+te
+ti
+tras
+toda
+todas
+todavía
+todo
+todos
+trás
+través
+traves
+tu
+tú
+tus
+tuya
+tuyas
+tuyo
+tuyos
+#################################
+#				#	
+#	U			#
+#				#	
+#################################
+u
+uh
+últimamente
+um
+umm
+un
+una
+unas
+uno
+unos
+único
+única
+únicos
+únicas
+usted
+ustedes
+#################################
+#				#	
+#	V			#
+#				#	
+#################################
+varios
+varias
+veces
+verdaderamente
+vos
+vosotros
+vosotras
+vuestra
+vuestras
+vuestro
+vuestros
+#################################
+#				#	
+#	W			#
+#				#	
+#################################
+#################################
+#				#	
+#	X			#
+#				#	
+#################################
+#################################
+#				#	
+#	Y			#
+#				#	
+#################################
+y
+ya
+yeah
+yo
+#################################
+#				#	
+#	Z			#
+#				#	
+#################################
+z
+zap
+
+##################################"
+
+######################## Structures
+capítulo
+artículo 
+número
+página
+
+#######################
+#   DECIR
+#######################
+decir
+decía
+decían
+dijo
+dije
+digamos
+dijeron
+dirían
+digo
+diga
+digan
+
+#######################
+#   HACER
+#######################
+hacer
+hizo
+hice
+hagamos
+hicieron
+harían
+hago
+haga
+hagan
+
+#######################
+#   SABER
+#######################
+sé
+sepa
+sepamos
+sabría
+supe
+supieron
+
+#################################
+#				#	
+#	ser o estar		#
+#				#	
+#################################
+era
+erais
+éramos
+eran
+eras
+eres
+es
+está
+estaba
+estabais
+estábamos
+estaban
+estabas
+estad
+estada
+estadas
+estado
+estados
+estáis
+estamos
+están
+estando
+estar          
+estará
+estarán
+estarás
+estaré
+estaréis
+estaremos
+estaría
+estaríais
+estaríamos
+estarían
+estarías
+estás
+esté
+estéis
+estemos
+estén
+estés
+estoy
+estuve
+estuviera
+estuvierais
+estuviéramos
+estuvieran
+estuvieras
+estuvieron
+estuviese
+estuvieseis
+estuviésemos
+estuviesen
+estuvieses
+estuvimos
+estuviste
+estuvisteis
+estuvo
+fue
+fuera
+fuerais
+fuéramos
+fueran
+fueras
+fueron
+fuese
+fueseis
+fuésemos
+fuesen
+fueses
+fui
+fuimos
+fuiste
+fuisteis
+ser
+sea
+seáis
+seamos
+sean
+seas
+sentid
+sentida
+sentidas
+sentido
+sentidos
+será
+serán
+serás
+seré
+seréis
+seremos
+sería
+seríais
+seríamos
+serían
+serías
+sois
+somos
+son
+soy
+#################################
+#				#	
+#	TENER			#
+#				#	
+#################################
+ha
+habéis
+había
+habíais
+habíamos
+habían
+habías
+habida
+habidas
+habido
+habidos
+habiendo
+habrá
+habrán
+habrás
+habré
+habréis
+habremos
+habría
+habríais
+habríamos
+habrían
+habrías
+han
+has
+haya
+hayáis
+hayamos
+hayan
+hayas
+he
+hemos
+hube
+hubiera
+hubierais
+hubiéramos
+hubieran
+hubieras
+hubieron
+hubiese
+hubieseis
+hubiésemos
+hubiesen
+hubieses
+hubimos
+hubiste
+hubisteis
+hubo
+tendrá
+tendrán
+tendrás
+tendré
+tendréis
+tendremos
+tendría
+tendríais
+tendríamos
+tendrían
+tendrías
+tened
+tenéis
+tenemos
+tenga
+tengáis
+tengamos
+tengan
+tengas
+tengo
+tenía
+teníais
+teníamos
+tenían
+tenías
+tenida
+tenidas
+tenido
+tenidos
+teniendo
+tiene
+tienen
+tienes
+tuve
+tuviera
+tuvierais
+tuviéramos
+tuvieran
+tuvieras
+tuvieron
+tuviese
+tuvieseis
+tuviésemos
+tuviesen
+tuvieses
+tuvimos
+tuviste
+tuvisteis
+tuvo

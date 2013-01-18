@@ -1,0 +1,587 @@
+# Copyright (C) 2002-2011  Juan-Manuel Torres-Moreno
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#################################################
+# Mots fonctionels                              #
+# Version 1.1                                   #
+# Creada     : 10 Febrero de 2002               #
+# Modificada : 17 fevrier 2004                  # 
+# Auteurs    : Juan Manuel Torres Moreno        #        
+#              Patricia Velazquez Morales       #
+# Encodage : unicode                            #
+# http://juanmanuel.torres.free.fr                    #
+# juan-manuel.torres@univ-avignon.fr	#
+#################################################
+à
+actuel
+actuels
+actuellement
+afin
+ah
+aïe
+ainsi
+ailleurs
+alors
+allô
+allo
+après
+assez
+au
+aucune
+aucunement
+aucun
+audit
+aujourd
+auparavant
+auprès
+auquel
+aussi
+aussitôt
+autant
+autour
+autre
+autrement
+autres
+autrefois
+autrui
+auxdits
+auxdites
+aux
+auxquels
+auxquelles
+avec
+avant
+#################################
+#                                #        
+#        B                        #
+#                                #        
+#################################
+b
+bah
+bang
+beaucoup
+bien
+bientôt
+bis
+bof
+bon
+bons
+bonnes
+bonne
+boum
+bravo
+bref
+brr
+#################################
+#                               #        
+#        C                      #
+#                               #        
+#################################
+c
+car
+ca
+ce
+ceci
+celle
+cela
+celles
+celui
+cependant
+certain
+certaine
+certainement
+certaines
+certains
+certes
+ces
+cet
+cette
+cettes
+ceux
+chez
+chut
+ci
+clic
+clac
+cocorico
+combien
+comme
+comment
+contre
+contrairement
+coucou
+crac
+cric
+ça
+çà
+#################################
+#                                #
+#        CH                       #
+#                                #
+#################################
+chaque
+chacun
+chacune
+chapitre
+chez
+#################################
+#                                #
+#        D                        #
+#                                #
+#################################
+d
+dans
+de
+debout
+dedans
+dehors
+déjà
+del
+demain
+depuis
+dernier
+derniers
+dernière
+dernières
+dernièrement
+derrière
+des
+dès
+desdits
+desdites
+désormais
+desquels
+desquelles
+dessous
+dessus
+devant
+diantre
+différents
+différent
+divers
+donc
+dont
+dorénavant
+du
+dudit
+durant
+duquel
+#################################
+#                                #
+#        E                        #
+#                                #
+#################################
+e
+eh
+effectivement
+également
+elle
+elles
+en
+encore
+enfin
+ensemble
+ensuite
+entre
+envers
+environ
+et
+etc
+etcétera
+euh
+eux
+évidemment
+exprès
+#################################
+#                                #
+#        F                        #
+#                                #
+#################################
+f
+façon
+façons
+facilement
+finalement
+fois
+#################################
+#                                #
+#        G                        #
+#                                #
+#################################
+g
+grand
+grands
+grande
+grandes
+généralement
+grâce
+guère
+#################################
+#                                #
+#        H                        #
+#                                #
+#################################
+h
+halte
+h
+hein
+hélas
+hep
+hier
+hormis
+hors
+ho
+hop
+hourrah
+hui
+hue
+hum
+#################################
+#                                #
+#        I                        #
+#                                #
+#################################
+ici
+infiniment
+incessamment
+incessant
+incessante
+il
+ils
+issu
+#################################
+#                                #
+#        J                        #
+#                                #
+#################################
+j
+jadis
+jamais
+je
+jusqu
+jusque
+justement
+k
+#################################
+#                                #
+#        L                        #
+#                                #
+#################################
+l
+la
+là
+ladite
+laquelle
+le
+ledit
+les
+lesdits
+lesdites
+lequel
+lesquels
+lesquelles
+leur
+leurs
+loin
+longtemps
+lors
+lorsqu
+lorsque
+lui
+#################################
+#                                #
+#        M                        #
+#                                #
+#################################
+m
+ma
+maintenant
+maint
+mainte
+maintes
+mais
+mal
+malheureusement
+malgr
+me
+meilleure
+meilleures
+meilleur
+meilleurs
+même
+mêmes
+mes
+miaou
+mien
+miens
+mienne
+miennes
+mieux
+mlle
+mme
+moi
+moindre
+moins
+mon
+moyennant
+#################################
+#                                #
+#        N                        #
+#                                #
+#################################
+n
+naguère
+ne
+néanmoins
+ni
+non
+nonobstant
+nos
+notre
+notres
+nôtre
+nôtres
+nous
+nul
+nulle
+nullement
+#################################
+#                                #
+#        O                        #
+#                                #
+#################################
+o
+Ô
+ô
+ò
+ok
+on
+ou
+ouais
+oui
+or
+outre
+o
+ouf
+#################################
+#                                #
+#        P                        #
+#                                #
+#################################
+p
+paf
+par
+parbleu
+parce
+parfaitement
+parfois
+parmi
+particulièrement
+partout
+pas
+patatras
+pendant
+petit
+petits
+petite
+petites
+peu
+pif
+pis
+pire
+plouf
+plupart
+plus
+plusieurs
+plutôt
+pouah
+pour
+pourtant
+pourqui
+pourquoi
+practiquement
+près
+presque
+presqu
+priori
+probablement
+pst
+puis
+puisqu
+puisque
+#################################
+#                                #
+#        Q                        #
+#                                #
+#################################
+qu
+quand
+quant
+que
+quel
+quelconque
+quelle
+quelles
+quelqu
+quelque
+quelques
+quelquefois
+quels
+qui
+quiconque
+quoi
+quoique
+quoiqu
+#################################
+#                                #
+#        R                        #
+#                                #
+#################################
+r
+rien
+relativement
+respectivement
+#################################
+#                                #
+#        S                        #
+#                                #
+#################################
+s
+si
+sa
+sauf
+se
+sans
+selon
+ses
+seul
+seule
+seulement
+sien
+siens
+sienne
+siennes
+simple
+simplement
+sinon
+sitôt
+soi
+son
+soudain
+soudainement
+sous
+souvent
+stop
+subit
+subite
+suivant
+suivante
+sur
+sûr
+sûre
+sûrement
+sûres
+sûrs
+surtout
+susdit
+susdite
+susdits
+susdites
+suite
+#################################
+#                                #
+#        T                        #
+#                                #
+#################################
+t
+ta
+tandis
+tantôt
+tant
+tard
+tas
+te
+tel
+telle
+telles
+tellement
+tels
+tes
+tic
+tac
+tien
+tiens
+tienne
+tiennes
+toi
+ton
+tôt
+totalement
+toujours
+tous
+tout
+toute
+toutefois
+toutes
+travers
+très
+trop
+tu
+#################################
+#                                #
+#        U                        #
+#                                #
+#################################
+u
+un
+une
+uniquement
+unes
+uns
+#################################
+#                                #
+#        V                        #
+#                                #
+#################################
+v
+vers
+via
+voici
+voilà
+voire
+votre
+votres
+vos
+vôtre
+vôtres
+vous
+vraiment
+vraisemblablement
+#################################
+#                                #
+#        Y                        #
+#                                #
+#################################
+y
+youppie
+#################################
+#                                #
+#        Z                        #
+#                                #        
+#################################
+z
+zut
+
+##################################

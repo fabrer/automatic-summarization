@@ -25,5 +25,8 @@ for f in $(find $folder -iname "*.txt");
     read stemmer
     ./normalise.pl $prefix/$a/$a.fon $prefix/$a/$a.stem $langue $stemmer
     ./vectoriel.pl $prefix/$a/$a.stem $prefix/$a/matrice_$a.mat
-    #./PACKAGE_ROUGE_FRESA/fresa.sh  $f
+    ./resumeur.pl $prefix/$a/matrice_$a.mat $prefix/$a/score_$a.phr
+    echo "Quel taux de compression voulez vous ? (entre 0 et 100%)"
+    read taux
+    ./generate.pl $prefix/$a/$a.seg $prefix/$a/score_$a.phr $prefix/$a/resume_$a.txt $taux
   done

@@ -1,0 +1,208 @@
+FRESA 2.0
+==================================================
+A Framework for Evaluating Summaries Automatically
+
+# Copyright (C) 2010/12  Juan-Manuel Torres-Moreno
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# -----	FRESA (a FRamework for Evaluating Summaries Automatically   	
+#	V 0.5     14 decembre 2009/28 janvier 2010/10 juin 2012
+#  	Juan-Manuel Torres-Moreno LIA/Avignon   juan-manuel.torres@univ-avignon.fr
+
+
+FRESA 2.0 est un système pour évaluer automatiquement
+des résumés textuels. 
+
+FRESA 2.0 utilise une divergence de probabilités entre
+le docuement source S et un résumé R. De ce fait, FRESA 2.0
+n'a pas besoin des résumés de référence.
+Le score FRESA est divise en unigrammes (FRESA1), bigrammes (FRESA2) et 
+bigrammes à trous (FRESASU4).
+
+
+Installation
+======================================================
+FRESA 2.0 fonctionne sous GNU/Linux.
+Copier le repertoire FRESA dans votre système
+
+Installer préalablement en cpan comme sudo:
+
+install XML::Twig
+
+
+Structure de repertoires
+======================================================
+
+configuration/	Fichiers de configuration
+fresa2.0/	code source
+Resumes/	resumes a evaluer
+Textes/	Documents source
+tmp/		repertoire temporaire
+doc/ 		documentation
+RESULTS/	résultats
+
+Utilisation
+======================================================
+syntaxe simple : 
+
+./fresa.sh fichier_configuration.fresa langue=es|en|fr
+
+syntaxe avec le rank moyen (FRESA = (FRESA1+FRESA2+FRESASU4)/3 : 
+
+./fresa.sh fichier_configuration.fresa langue=es|en|fr | perl rank_fresa.perl
+
+langue = une des trois langues disponibles pour le moment
+fichier de configuration du test
+
+Les fichiers de résumés R et les sources S doivent être en utf8.
+
+
+Syntaxe du fichier de configuration:
+Il peut y avoir autant de tests et de systèmes comme on veut
+======================================================
+
+<FRESA version="1.0">
+<EVAL ID="Test numero I">
+<TEXTE-ROOT>./Repertoire_de_textes_source/</TEXTE-ROOT>
+<SUMM-ROOT>./Repertoire_de_resumes/</SUMM-ROOT>
+<TEXTE>nom_du_texte_source</TEXTE>
+<SUMMARIZERS>
+	<SUMM ID="ident_systeme_1" TXT="resume_systeme_1"/>
+	<SUMM ID="ident_systeme_2" TXT="resume_systeme_2"/>
+	<SUMM ID="ident_systeme_3" TXT="resume_systeme_3"/>
+		...
+	<SUMM ID="ident_systeme_n" TXT="resume_systeme_n"/>
+</SUMMARIZERS>
+</EVAL>
+
+<EVAL ID="Test numero II">
+<TEXTE-ROOT>./Repertoire_de_textes_source/</TEXTE-ROOT>
+<SUMM-ROOT>./Repertoire_de_resumes/</SUMM-ROOT>
+<TEXTE>nom_du_texte_source</TEXTE>
+<SUMMARIZERS>
+	<SUMM ID="ident_systeme_1" TXT="resume_systeme_1"/>
+	<SUMM ID="ident_systeme_2" TXT="resume_systeme_2"/>
+	<SUMM ID="ident_systeme_3" TXT="resume_systeme_3"/>
+		...
+	<SUMM ID="ident_systeme_n" TXT="resume_systeme_n"/>
+</SUMMARIZERS>
+</EVAL>
+
+...
+
+</FRESA>
+
+Exemples
+======================================================
+
+Exemple de configuration:
+
+<FRESA version="1.0">
+
+<EVAL ID="puces 8 frases">
+<TEXTE-ROOT>./Textes/</TEXTE-ROOT>
+<SUMM-ROOT>./Resumes/puces/</SUMM-ROOT>
+<TEXTE>puces.txt</TEXTE>
+<SUMMARIZERS>
+	<SUMM ID="cortex" TXT="puces.txt_cortex_-s8.txt"/>
+	<SUMM ID="kl_summ" TXT="puces.txt_divergence_-s8.txt"/>
+	<SUMM ID="artex" TXT="puces.txt_artex_-s8.txt"/>
+	<SUMM ID="enertex" TXT="puces.txt_enertex_-s8.txt"/>
+	<SUMM ID="reg" TXT="puces.txt_reg_-s8.txt"/>
+	<SUMM ID="word" TXT="puces_word.txt"/>
+	<SUMM ID="swesum" TXT="puces_swesum.txt"/>
+	<SUMM ID="copernic" TXT="puces_copernic.txt"/>
+	<SUMM ID="pertinence" TXT="puces_pertinence.txt"/>
+	<SUMM ID="essential" TXT="puces_essential.txt"/>
+	<SUMM ID="base_rand" TXT="puces_baseline_ale.txt"/>
+	<SUMM ID="base_prim" TXT="puces_baseline_prim.txt"/>
+	<SUMM ID="ots" TXT="puces_ots.txt"/>
+</SUMMARIZERS>
+</EVAL>
+
+</FRESA>
+
+
+Exemple 1 (simple):
+
+ ./fresa.sh configuration/puces.fresa fr
+
+----------------- FRESA 2.0 (a FRamework for Evaluating Summaries Automatically)
+(c) 2012 Juan-Manuel Torres juan-manuel.torres@univ-avignon.fr
+Langue = fr
+Version 2.0
+	---> EVAL puces 8 frases: puces.txt
+    cortex FRESA_1: 0.3288 FRESA_2: 0.2146 FRESA_4: 0.2137 FRESA_M: 0.2524 
+   kl_summ FRESA_1: 0.3541 FRESA_2: 0.2359 FRESA_4: 0.2244 FRESA_M: 0.2714 
+     artex FRESA_1: 0.3114 FRESA_2: 0.2095 FRESA_4: 0.2065 FRESA_M: 0.2425 
+   enertex FRESA_1: 0.3092 FRESA_2: 0.1982 FRESA_4: 0.1951 FRESA_M: 0.2342 
+       reg FRESA_1: 0.3084 FRESA_2: 0.2022 FRESA_4: 0.2033 FRESA_M: 0.2380 
+      word FRESA_1: 0.1895 FRESA_2: 0.1000 FRESA_4: 0.0946 FRESA_M: 0.1280 
+    swesum FRESA_1: 0.2099 FRESA_2: 0.1146 FRESA_4: 0.1225 FRESA_M: 0.1490 
+  copernic FRESA_1: 0.3574 FRESA_2: 0.2395 FRESA_4: 0.2290 FRESA_M: 0.2753 
+pertinence FRESA_1: 0.3238 FRESA_2: 0.2025 FRESA_4: 0.2023 FRESA_M: 0.2428 
+ essential FRESA_1: 0.3358 FRESA_2: 0.2253 FRESA_4: 0.2135 FRESA_M: 0.2582 
+ base_rand FRESA_1: 0.2942 FRESA_2: 0.1779 FRESA_4: 0.1714 FRESA_M: 0.2145 
+ base_prim FRESA_1: 0.2790 FRESA_2: 0.1745 FRESA_4: 0.1759 FRESA_M: 0.2098 
+       ots FRESA_1: 0.3436 FRESA_2: 0.2384 FRESA_4: 0.2257 FRESA_M: 0.2692 
+
+	*** Moyennes|Average / 1 eval ***
+-----------------------------------------------------------------------
+       SYSTEME  FRESA_4	FRESA_2	FRESA_1	FRESA_M
+copernic	0.22901	 0.23945	 0.35736	 0.27528	
+kl_summ	0.22440	 0.23590	 0.35405	 0.27145	
+ots	 	0.22571	 0.23838	 0.34362	 0.26924	
+essential	0.21346	 0.22530	 0.33585	 0.25820	
+cortex	 	0.21369	 0.21459	 0.32881	 0.25236	
+pertinence	0.20229	 0.20247	 0.32375	 0.24284	
+artex	 	0.20652	 0.20950	 0.31140	 0.24248	
+reg	 	0.20329	 0.20223	 0.30839	 0.23797	
+enertex	0.19515	 0.19819	 0.30919	 0.23417	
+base_rand	0.17138	 0.17789	 0.29421	 0.21450	
+base_prim	0.17591	 0.17448	 0.27899	 0.20980	
+swesum	 	0.12249	 0.11462	 0.20991	 0.14901	
+word	 	0.09461	 0.09998	 0.18945	 0.12801
+
+
+Exemple (rank):
+
+./fresa.sh configuration/puces.fresa fr | perl rank_fresa.perl 
+# Système	Fresa M: (FRESA_1*FRESA_2*FRESA_4)/3
+copernic	0.27528
+kl_summ	0.27145
+ots	   	0.26924
+essential	0.25820
+cortex	   	0.25236
+pertinence	0.24284
+artex	   	0.24248
+reg	   	0.23797
+enertex	0.23417
+base_rand	0.21450
+base_prim	0.20980
+swesum	   	0.14901
+word	  	0.12801
+
+
+======================================================
+Questions?
+
+Envoyer un courriel a :
+
+juan-manuel-torres@univ-avignon.fr
+
+
+
+
+

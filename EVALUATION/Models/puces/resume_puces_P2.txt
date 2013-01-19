@@ -1,0 +1,7 @@
+Les travaux de l'équipe dirigée par Greg Snider portent sur le puits quantique, un piège infinitésimal dans lequel un électron peut être enfermé.
+Les forces de répulsion provoquent le déplacement des électrons qui trouvent leur équilibre lorsqu'ils se trouvent placés aux deux extrémités de l'une ou l'autre des diagonales de la cellule.
+La première représente l'état 0, tandis que l'autre indique le 1.
+Dans les transistors actuels, le passage de l'état 0 à l'état 1 n'est possible qu'au prix du déplacement de plusieurs milliers d'électrons, ce qui génère un important flux de chaleur.
+En cas de succès, la technique des cellules logiques quantiques pourrait permettre d'entasser des centaines de milliards de circuits dans une seule puce électronique.
+Des piqûres de puces ont été relevées sur plus d'untiers des militaires.
+Le médecin de troupe a donné immédiatement les soins nécessaires aux militaires concernés et il a ordonné les mesures d'hygiène qui s'imposaient.

@@ -1,0 +1,38 @@
+
+ROUGE is a software package for automated evaluation of summaries. It was developed by Chin-Yew Lin while he was at the Information Sciences Institute of University of Southern California (USC/ISI).
+
+voir site: http://www.berouge.com/Pages/default.aspx
+
+ROUGE utilise une metrique de rappel et des resumes de 
+reference
+
+======================================================
+
+configuration/	Fichiers de configuration
+ROUGE-RELEASE-1.5.5/	code source
+
+Utilisation (shell et rank par Juan-Manuel Torres)
+======================================================
+syntaxe simple : 
+
+./rouge.sh fichier_configuration.rouge 
+
+syntaxe avec le rank moyen (ROUGE = (ROUGE1+ROUGE2+ROUGESU4)/3 : 
+
+./rouge.sh fichier_configuration.rouge | perl rank_fresa.perl
+
+fichier de configuration du test
+
+Les fichiers de résumés R et les sources S doivent être en utf8.
+
+Syntaxe du fichier de configuration:
+
+Voir le site:
+
+http://www.berouge.com/Pages/default.aspx
+
+======================================================
+
+La seule version officiel de rouge doit être prise de:
+
+http://www.berouge.com/Pages/DownloadROUGE.aspx

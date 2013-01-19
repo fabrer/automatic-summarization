@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+
+<EVAL ID="systems">
+<PEER-ROOT>
+./Resumes/puces
+</PEER-ROOT>
+<MODEL-ROOT>
+./Models/puces
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+	<P ID="grasp">puces_grasp.txt</P>
+	<P ID="kl_summ_fix">puces.txt_KL_summ_-s8_fix.txt</P>
+	<P ID="kl_summ">puces.txt_KL_summ_-s8_lemm.txt</P>
+	<P ID="enertex">puces.txt_enertex_per_-s8_lemm.txt</P>
+	<P ID="enertex_fix">puces.txt_enertex_per_-s8_fix.txt</P>
+	<P ID="reg">puces.txt_reg_-s8_lemm.txt</P>
+	<P ID="reg_fix">puces.txt_reg_-s8_fix.txt</P>
+	<P ID="cortex">puces.txt_cortex_-s8_lemm.txt</P>
+	<P ID="cortex_fix">puces.txt_cortex_-s8_fix.txt</P>
+	<P ID="artex">puces.txt_artex_words_-s8_lemm.txt</P>  
+	<P ID="artex_fix">puces.txt_artex_words_-s8_fix.txt</P>
+	<P ID="base_rand">puces_baseline_ale.txt</P>
+	<P ID="base_prim">puces_baseline_prim.txt</P>
+	<P ID="essential">puces_essential.txt</P>
+	<P ID="word">puces_word.txt</P>
+	<P ID="copernic">puces_copernic.txt</P>
+	<P ID="ots">puces_ots.txt</P>
+	<P ID="pertinence">puces_pertinence.txt</P>
+	<P ID="swesum">puces_swesum.txt</P>
+	<P ID="rfabre">resume_puces_rfabre.txt</P>
+</PEERS>
+<MODELS>
+<M ID="h1">resume_puces_P1.txt</M>
+<M ID="h2">resume_puces_P2.txt</M>
+<M ID="h3">resume_puces_P3.txt</M>
+<M ID="h4">resume_puces_P4.txt</M>
+<M ID="h5">resume_puces_P5.txt</M>
+<M ID="h6">resume_puces_P6.txt</M>
+<M ID="h7">resume_puces_P7.txt</M>
+<M ID="h8">resume_puces_P8.txt</M>
+<M ID="h9">resume_puces_P9.txt</M>
+<M ID="h10">resume_puces_P10.txt</M>
+<M ID="h11">resume_puces_P11.txt</M>
+<M ID="h12">resume_puces_P12.txt</M>
+<M ID="h13">resume_puces_P13.txt</M>
+<M ID="h14">resume_puces_P14.txt</M>
+<M ID="h15">resume_puces_P15.txt</M>
+<M ID="h16">resume_puces_P16.txt</M>
+<M ID="h17">resume_puces_P17.txt</M>
+<M ID="h18">resume_puces_P18.txt</M>
+<M ID="h19">resume_puces_P19.txt</M>
+<M ID="h20">resume_puces_P20.txt</M>
+<M ID="h21">resume_puces_P21.txt</M>
+<M ID="h22">resume_puces_P22.txt</M>
+<M ID="h23">resume_puces_P23.txt</M>
+<M ID="h24">resume_puces_P24.txt</M>
+<M ID="h25">resume_puces_P25.txt</M>
+<M ID="h26">resume_puces_P26.txt</M>
+<M ID="h27">resume_puces_P27.txt</M>
+<M ID="h28">resume_puces_P28.txt</M>
+<M ID="h29">resume_puces_P29.txt</M>
+<M ID="h30">resume_puces_P30.txt</M>
+<M ID="h31">resume_puces_P31.txt</M>
+<M ID="h32">resume_puces_P32.txt</M>
+<M ID="h33">resume_puces_P33.txt</M>
+<M ID="h34">resume_puces_P34.txt</M>
+<M ID="h35">resume_puces_P35.txt</M>
+<M ID="h36">resume_puces_P36.txt</M>
+<M ID="h37">resume_puces_P37.txt</M>
+<M ID="h38">resume_puces_P38.txt</M>
+<M ID="h39">resume_puces_P39.txt</M>
+</MODELS>
+</EVAL>
+
+
+
+</ROUGE_EVAL>

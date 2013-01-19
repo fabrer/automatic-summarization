@@ -1,0 +1,8 @@
+Et si l'ordinateur pouvait fonctionner un jour, sans électricité ou presque? 
+La démarche de chercheurs américains de l'université de Notre Dame, dans l'Indiana, montre que l'on peut manipuler des électrons pour construire des circuits élémentaires avec des quantités d'énergie infimes.
+Chaque cellule représente donc un bit, la plus petite quantité d'information que l'on peut manipuler dans les ordinateurs.
+Tout déplacement d'un électron sous l'effet d'une force extérieure provoque automatiquement le déplacement du second électron de manière à retrouver l'équilibre, et donc le basculement de la cellule entre les états 0 et 1.
+En regroupant cinq cellules élémentaires, les chercheurs ont mis au point un circuit baptisé majoritaire capable de réaliser les deux fonctions logiques de base, ET et OU, à la demande.
+Pour l'instant, le dispositif fonctionne seulement à une température voisine du zéro absolu, mais les chercheurs ne désespèrent pas de parvenir à le réchauffer tout en maîtrisant son comportement.
+Les cantonnements de la compagnie IV de l'école de recrues d'infanterie d'exploration et de transmission 213, stationnée à Avenches, sont envahis parles puces et les poux.
+Des piqures de puces ont été diagnostiquées sur plus d'un tiers des 155 hommes de la compagnie IV de l'école de recrues d'infanterie d'exploration et de transmission 213.

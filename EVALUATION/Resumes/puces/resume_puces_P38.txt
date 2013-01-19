@@ -1,0 +1,8 @@
+Les scientifiques ont créé des cellules carrées formées de quatre puits quantiques, dans laquelle ils ont introduit une paire d'électrons. 
+Les forces de répulsion provoquent le déplacement des électrons qui trouvent leur équilibre lorsqu'ils se trouvent placés aux deux extrémités de l'une ou l'autre des diagonales de la cellule.
+Chaque cellule représente donc un bit, la plus petite quantité d'information que l'on peut manipuler dans les ordinateurs.
+Tout déplacement d'un électron sous l'effet d'une force extérieure provoque automatiquement le déplacement du second électron de manière à retrouver l'équilibre, et donc le basculement de la cellule entre les états 0 et 1.
+En regroupant cinq cellules élémentaires, les chercheurs ont mis au point un circuit baptisé "majoritaire" capable de réaliser les deux fonctions logiques de base, ET et OU, à la demande. 
+En cas de succès, la technique des cellules logiques quantiques pourrait permettre d'entasser des centaines de milliards de circuits dans une seule puce électronique.
+Les cantonnements de la compagnie IV de l'école de recrues d'infanterie d'exploration et de transmission 213, stationnée à Avenches, sont envahis parles puces et les poux.
+Une section d'hygiène de l'école de recrues d'hôpital 268, stationnée à Moudon, va désinfecter tous ces cantonnements.

@@ -1,0 +1,8 @@
+La démarche de chercheurs américains de l'université de Notre Dame, dans l'Indiana, montre que l'on peut manipuler des électrons pour construire des circuits élémentaires avec des quantités d'énergie infimes.
+Les travaux de l'équipe dirigée par Greg Snider portent sur le puits quantique, un piège infinitésimal dans lequel un électron peut être enfermé.
+Les scientifiques ont créé des cellules carrées formées de quatre puits quantiques, dans laquelle ils ont introduit une paire d'électrons.
+Chaque cellule représente donc un bit, la plus petite quantité d'information que l'on peut manipuler dans les ordinateurs.
+Tout déplacement d'un électron sous l'effet d'une force extérieure provoque automatiquement le déplacement du second électron de manière à retrouver l'équilibre, et donc le basculement de la cellule entre les états 0 et 1.
+Dans les transistors actuels, le passage de l'état 0 à l'état 1 n'est possible qu'au prix du déplacement de plusieurs milliers d'électrons, ce qui génère un important flux de chaleur.
+Pour l'instant, le dispositif fonctionne seulement à une température voisine du zéro absolu, mais les chercheurs ne désespèrent pas de parvenir à le réchauffer tout en maîtrisant son comportement.
+Des piqures de puces ont été diagnostiquées sur plus d'un tiers des 155 hommes de la compagnie IV de l'école de recrues d'infanterie d'exploration et de transmission 213.

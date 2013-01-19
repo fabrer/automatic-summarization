@@ -1,0 +1,12 @@
+<FRESA version="1.0">
+
+<EVAL ID="Corpus en">
+<TEXTE-ROOT>./Textes/</TEXTE-ROOT>
+<SUMM-ROOT>./Resumes/DUC2004/</SUMM-ROOT>
+<TEXTE>cluster_d30015t.txt</TEXTE>
+<SUMMARIZERS>
+	<SUMM ID="RFABRE" TXT="resume_cluster_d30015t.txt"/>
+</SUMMARIZERS>
+</EVAL>
+
+</FRESA>

@@ -1,0 +1,40 @@
+<ROUGE_EVAL version="1.5.5">
+
+<EVAL ID="jaccuse">
+<PEER-ROOT>
+./Resumes/jaccuse
+</PEER-ROOT>
+<MODEL-ROOT>
+./Models/jaccuse
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+	<P ID="artex_raw">jaccuse.txt_artex_bigrammes_-s25_raw.txt</P>
+	<P ID="artex_ngramm">jaccuse.txt_artex_-s25_ngramm.txt</P>
+	<P ID="essential">jaccuse_essential.txt</P>
+	<P ID="artex">jaccuse.txt_artex_-s25.txt</P>
+<P ID="reg">jaccuse.txt_reg_-s25.txt</P>
+<P ID="cortex">jaccuse.txt_cortex_-s25.txt</P>
+<P ID="enertex">jaccuse.txt_enertex_-s25.txt</P>
+<P ID="baseline_ale">resume_jaccuse_baseline_ale.txt</P>
+<P ID="baseline_prim">resume_jaccuse_baseline_prim.txt</P>
+<P ID="word">resume_jaccuse_word.txt</P>
+<P ID="copernic">resume_jaccuse_copernic.txt</P>
+<P ID="ots">resume_jaccuse_ots.txt</P>
+<P ID="pertinence">resume_jaccuse_pertinence.txt</P>
+<P ID="swesum">resume_jaccuse_swesum.txt</P>
+	<P ID="cortex_n1">jaccuse.txt_cortex_-s25_n1.txt</P>
+	<P ID="cortex_1">jaccuse.txt_cortex_-s25_1.txt</P>
+	<P ID="artex_1">jaccuse.txt_artex_bigrammes_-s25_1c.txt</P>
+</PEERS>
+<MODELS>
+<M ID="h1">resume_jaccuse_P1.txt</M>
+<M ID="h2">resume_jaccuse_P2.txt</M>
+<M ID="h3">resume_jaccuse_P3.txt</M>
+<M ID="h3">resume_jaccuse_P4.txt</M>
+<M ID="h3">resume_jaccuse_P5.txt</M>
+</MODELS>
+</EVAL>
+
+</ROUGE_EVAL>

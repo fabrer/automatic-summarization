@@ -1,0 +1,8 @@
+La démarche de chercheurs américains de l'université de Notre Dame, dans l'Indiana, montre que l'on peut manipuler des électrons pour construire des circuits élémentaires avec des quantités d'énergie infimes.
+Les forces de répulsion provoquent le déplacement des électrons qui trouvent leur équilibre lorsqu'ils se trouvent placés aux deux extrémités de l'une ou l'autre des diagonales de la cellule.
+Tout déplacement d'un électron sous l'effet d'une force extérieure provoque automatiquement le déplacement du second électron de manière à retrouver l'équilibre, et donc le basculement de la cellule entre les états 0 et 1.
+En regroupant cinq cellules élémentaires, les chercheurs ont mis au point un circuit baptisé "majoritaire" capable de réaliser les deux fonctions logiques de base, ET et OU, à la demande.
+En cas de succès, la technique des cellules logiques quantiques pourrait permettre d'entasser des centaines de milliards de circuits dans une seule puce électronique.
+Les cantonnements de la compagnie IV de l'école de recrues d'infanterie d'exploration et de transmission 213, stationnée à Avenches, sont envahis parles puces et les poux.
+Tout le matériel personnel de la compagnie a été emballé hermétiquement et apporté à l'arsenal cantonal de Fribourg.
+On estime qu'avec ces mesures sanitaires appropriées la troupe pourra réintégrer ses cantonnements vendredi au plus tard.

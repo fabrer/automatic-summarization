@@ -1,0 +1,18 @@
+---------------------------------------------
+rfabre ROUGE-1 Average_R: 0.90000 (95%-conf.int. 0.90000 - 0.90000)
+rfabre ROUGE-1 Average_P: 0.06018 (95%-conf.int. 0.06018 - 0.06018)
+rfabre ROUGE-1 Average_F: 0.11282 (95%-conf.int. 0.11282 - 0.11282)
+.............................................
+rfabre ROUGE-1 Eval systems.rfabre R:0.90000 P:0.06018 F:0.11282
+---------------------------------------------
+rfabre ROUGE-2 Average_R: 0.37615 (95%-conf.int. 0.37615 - 0.37615)
+rfabre ROUGE-2 Average_P: 0.02494 (95%-conf.int. 0.02494 - 0.02494)
+rfabre ROUGE-2 Average_F: 0.04678 (95%-conf.int. 0.04678 - 0.04678)
+.............................................
+rfabre ROUGE-2 Eval systems.rfabre R:0.37615 P:0.02494 F:0.04678
+---------------------------------------------
+rfabre ROUGE-SU4 Average_R: 0.48913 (95%-conf.int. 0.48913 - 0.48913)
+rfabre ROUGE-SU4 Average_P: 0.03197 (95%-conf.int. 0.03197 - 0.03197)
+rfabre ROUGE-SU4 Average_F: 0.06002 (95%-conf.int. 0.06002 - 0.06002)
+.............................................
+rfabre ROUGE-SU4 Eval systems.rfabre R:0.48913 P:0.03197 F:0.06002

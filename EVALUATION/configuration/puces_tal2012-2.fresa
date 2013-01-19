@@ -1,0 +1,83 @@
+<FRESA version="1.0">
+
+<EVAL ID="Puces 8 frases">
+<TEXTE-ROOT>./Textes/</TEXTE-ROOT>
+<SUMM-ROOT>./Resumes/puces/</SUMM-ROOT>
+<TEXTE>puces.txt</TEXTE>
+<SUMMARIZERS>
+	<SUMM ID="ARTEX" TXT="puces.txt_artex_words_-s8_lemm.txt"/>
+	<SUMM ID="ARTEX_fix" TXT="puces.txt_artex_words_-s8_fix.txt"/>
+	<SUMM ID="CORTEX" TXT="puces.txt_cortex_-s8_lemm.txt"/>
+	<SUMM ID="CORTEX_fix" TXT="puces.txt_cortex_-s8_fix.txt"/>
+	<SUMM ID="KL_summ" TXT="puces.txt_KL_summ_-s8_lemm.txt"/>
+	<SUMM ID="KL_summ_fix" TXT="puces.txt_KL_summ_-s8_fix.txt"/>
+	<SUMM ID="JS" TXT="puces.txt_js_-s8_lemm.txt"/>
+	<SUMM ID="JS_fix" TXT="puces.txt_js_-s8_fix.txt"/>
+	<SUMM ID="ENERTEX" TXT="puces.txt_enertex_per_-s8_lemm.txt"/>
+	<SUMM ID="ENERTEX_fix" TXT="puces.txt_enertex_per_-s8_fix.txt"/>
+	<SUMM ID="REG" TXT="puces.txt_reg_-s8_lemm.txt"/>
+	<SUMM ID="REG_fix" TXT="puces.txt_reg_-s8_fix.txt"/>
+	<SUMM ID="WORD" TXT="puces_word.txt"/>
+	<SUMM ID="BASE_RAND" TXT="puces_baseline_ale.txt"/>
+	<SUMM ID="BASE_PRIM" TXT="puces_baseline_prim.txt"/>
+	<SUMM ID="BASE_PRIM" TXT="puces_baseline_prim.txt"/>
+	<SUMM ID="RFABRE" TXT="resume_puces_rfabre.txt"/>
+
+
+	<SUMM ID="DEMOCRATIQUE" TXT="resume_democratique.txt"/>
+
+	<SUMM ID="acharki_h40"    	   TXT="acharki.txt"/>
+	<SUMM ID="amghar_h41"    	   TXT="amghar.txt"/>
+	<SUMM ID="berbeche_h42"    	   TXT="berbeche.txt"/>
+	<SUMM ID="blanc_h43"    	   TXT="blanc.txt"/>
+	<SUMM ID="bonnet_h44"    	   TXT="bonnet.txt"/>
+	<SUMM ID="bost_h45"    	   TXT="bost.txt"/>
+	<SUMM ID="bourezoula_h46"      TXT="bourezoula.txt"/>
+	<SUMM ID="chaptal_h47"    	   TXT="chaptal.txt"/>
+	<SUMM ID="fabre_h48"    	   TXT="fabre.txt"/>
+	<SUMM ID="favaro_h49"    	   TXT="favaro.txt"/>
+	<SUMM ID="gjorgieva_h50"   	   TXT="gjorgieva.txt"/>
+	<SUMM ID="fellous_h51"    	   TXT="fellous.txt"/>
+	<SUMM ID="karkouri_h52"    	   TXT="karkouri.txt"/>
+	<SUMM ID="khatiri_h53"    	   TXT="khatiri.txt"/>
+	<SUMM ID="maissa_h54"    	   TXT="maissa.txt"/>
+	<SUMM ID="majeros_h55"    	   TXT="majeros.txt"/>
+	<SUMM ID="montazer_h56"    	   TXT="montazer.txt"/>
+	<SUMM ID="morette_h57"    	   TXT="morette.txt"/>
+	<SUMM ID="occello_h58"    	   TXT="occello.txt"/>
+	<SUMM ID="raissouni_h59"       TXT="raissouni.txt"/>
+	<SUMM ID="sanchez_dubront_h60" TXT="sanchez_dubront.txt"/>
+	<SUMM ID="sassi_h61"    	   TXT="sassi.txt"/>
+	<SUMM ID="song_h62"    	   TXT="song.txt"/>
+
+	<SUMM ID="acharki2_h63"    	   TXT="acharki2.txt"/>
+	<SUMM ID="amghar2_h64"    	   TXT="amghar2.txt"/>
+	<SUMM ID="berbeche2_h65"   	   TXT="berbeche2.txt"/>
+	<SUMM ID="blanc2_h66"    	   TXT="blanc2.txt"/>
+	<SUMM ID="bonnet2_h67"    	   TXT="bonnet2.txt"/>
+	<SUMM ID="bost2_h68"    	   TXT="bost2.txt"/>
+	<SUMM ID="bourezoula2_h69"     TXT="bourezoula2.txt"/>
+	<SUMM ID="chaptal2_h70"    	   TXT="chaptal2.txt"/>
+	<SUMM ID="fabre2_h71"    	   TXT="fabre2.txt"/>
+	<SUMM ID="favaro2_h72"    	   TXT="favaro2.txt"/>
+	<SUMM ID="gjorgieva2_h73"  	   TXT="gjorgieva2.txt"/>
+	<SUMM ID="fellous2_h74"    	   TXT="fellous2.txt"/>
+	<SUMM ID="karkouri2_h75"   	   TXT="karkouri2.txt"/>
+	<SUMM ID="maissa2_h76"    	   TXT="maissa2.txt"/>
+	<SUMM ID="majeros2_h77"    	   TXT="majeros2.txt"/>
+	<SUMM ID="montazer2_h78"   	   TXT="montazer2.txt"/>
+	<SUMM ID="morette2_h79"    	   TXT="morette2.txt"/>
+	<SUMM ID="occello2_h80"    	   TXT="occello2.txt"/>
+	<SUMM ID="raissouni2_h81"      TXT="raissouni2.txt"/>
+	<SUMM ID="sassi2_h82"    	   TXT="sassi2.txt"/>
+	<SUMM ID="achli_h83"    	   TXT="achli.txt"/>
+	<SUMM ID="belghit_h84"    	   TXT="belghit.txt"/>
+	<SUMM ID="dramsy_h85"   	   TXT="dramsy.txt"/>
+	<SUMM ID="lam_h86"    	   TXT="lam.txt"/>
+	<SUMM ID="vuillot_h87"    	   TXT="vuillot.txt"/>
+	<SUMM ID="khatiri2_h88"    	   TXT="khatiri2.txt"/>
+
+</SUMMARIZERS>
+</EVAL>
+
+</FRESA>

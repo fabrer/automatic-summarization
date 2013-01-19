@@ -1,0 +1,10 @@
+Leurs expériences, relatées dans l'édition du 9 avril du magazine Science, ouvrent la voie à des composants capables de fonctionner à des fréquences 10 à 100 fois plus élevées que celles des puces actuelles qui sont bridées par des problèmes de dissipation de chaleur.
+La première représente l'état 0, tandis que l'autre indique le 1.
+L'utilisation d'une cellule unique ne prouve rien.
+Dans les transistors actuels, le passage de l'état 0 à l'état 1 n'est possible qu'au prix du déplacement de plusieurs milliers d'électrons, ce qui génère un important flux de chaleur.
+En regroupant cinq cellules élémentaires, les chercheurs ont mis au point un circuit baptisé "majoritaire" capable de réaliser les deux fonctions logiques de base, ET et OU, à la demande.
+Ils ont ensuite vérifié son bon fonctionnement et espèrent assembler plusieurs de ces circuits pour effectuer des additions et des multiplications sur des nombres.
+Pour l'instant, le dispositif fonctionne seulement à une température voisine du zéro absolu, mais les chercheurs ne désespèrent pas de parvenir à le réchauffer tout en maîtrisant son comportement.
+Des piqures de puces ont été relevées sur plus d'untiers des militaires.
+Des cadavres de poux, mais aucun oeuf, ont également été décelés sur 3 militaires.
+Ces insectes sont transmis par contact personnel.

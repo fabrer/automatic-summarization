@@ -1,0 +1,360 @@
+---------------------------------------------
+artex ROUGE-1 Average_R: 0.63608 (95%-conf.int. 0.63608 - 0.63608)
+artex ROUGE-1 Average_P: 0.57241 (95%-conf.int. 0.57241 - 0.57241)
+artex ROUGE-1 Average_F: 0.60257 (95%-conf.int. 0.60257 - 0.60257)
+.............................................
+artex ROUGE-1 Eval systems.artex R:0.63608 P:0.57241 F:0.60257
+---------------------------------------------
+artex ROUGE-2 Average_R: 0.46445 (95%-conf.int. 0.46445 - 0.46445)
+artex ROUGE-2 Average_P: 0.41777 (95%-conf.int. 0.41777 - 0.41777)
+artex ROUGE-2 Average_F: 0.43988 (95%-conf.int. 0.43988 - 0.43988)
+.............................................
+artex ROUGE-2 Eval systems.artex R:0.46445 P:0.41777 F:0.43988
+---------------------------------------------
+artex ROUGE-SU4 Average_R: 0.48875 (95%-conf.int. 0.48875 - 0.48875)
+artex ROUGE-SU4 Average_P: 0.43930 (95%-conf.int. 0.43930 - 0.43930)
+artex ROUGE-SU4 Average_F: 0.46271 (95%-conf.int. 0.46271 - 0.46271)
+.............................................
+artex ROUGE-SU4 Eval systems.artex R:0.48875 P:0.43930 F:0.46271
+---------------------------------------------
+artex_fix ROUGE-1 Average_R: 0.62104 (95%-conf.int. 0.62104 - 0.62104)
+artex_fix ROUGE-1 Average_P: 0.55665 (95%-conf.int. 0.55665 - 0.55665)
+artex_fix ROUGE-1 Average_F: 0.58708 (95%-conf.int. 0.58708 - 0.58708)
+.............................................
+artex_fix ROUGE-1 Eval systems.artex_fix R:0.62104 P:0.55665 F:0.58708
+---------------------------------------------
+artex_fix ROUGE-2 Average_R: 0.43721 (95%-conf.int. 0.43721 - 0.43721)
+artex_fix ROUGE-2 Average_P: 0.39169 (95%-conf.int. 0.39169 - 0.39169)
+artex_fix ROUGE-2 Average_F: 0.41320 (95%-conf.int. 0.41320 - 0.41320)
+.............................................
+artex_fix ROUGE-2 Eval systems.artex_fix R:0.43721 P:0.39169 F:0.41320
+---------------------------------------------
+artex_fix ROUGE-SU4 Average_R: 0.46323 (95%-conf.int. 0.46323 - 0.46323)
+artex_fix ROUGE-SU4 Average_P: 0.41468 (95%-conf.int. 0.41468 - 0.41468)
+artex_fix ROUGE-SU4 Average_F: 0.43761 (95%-conf.int. 0.43761 - 0.43761)
+.............................................
+artex_fix ROUGE-SU4 Eval systems.artex_fix R:0.46323 P:0.41468 F:0.43761
+---------------------------------------------
+base_prim ROUGE-1 Average_R: 0.55220 (95%-conf.int. 0.55220 - 0.55220)
+base_prim ROUGE-1 Average_P: 0.56469 (95%-conf.int. 0.56469 - 0.56469)
+base_prim ROUGE-1 Average_F: 0.55838 (95%-conf.int. 0.55838 - 0.55838)
+.............................................
+base_prim ROUGE-1 Eval systems.base_prim R:0.55220 P:0.56469 F:0.55838
+---------------------------------------------
+base_prim ROUGE-2 Average_R: 0.38065 (95%-conf.int. 0.38065 - 0.38065)
+base_prim ROUGE-2 Average_P: 0.38930 (95%-conf.int. 0.38930 - 0.38930)
+base_prim ROUGE-2 Average_F: 0.38493 (95%-conf.int. 0.38493 - 0.38493)
+.............................................
+base_prim ROUGE-2 Eval systems.base_prim R:0.38065 P:0.38930 F:0.38493
+---------------------------------------------
+base_prim ROUGE-SU4 Average_R: 0.40659 (95%-conf.int. 0.40659 - 0.40659)
+base_prim ROUGE-SU4 Average_P: 0.41590 (95%-conf.int. 0.41590 - 0.41590)
+base_prim ROUGE-SU4 Average_F: 0.41119 (95%-conf.int. 0.41119 - 0.41119)
+.............................................
+base_prim ROUGE-SU4 Eval systems.base_prim R:0.40659 P:0.41590 F:0.41119
+---------------------------------------------
+base_rand ROUGE-1 Average_R: 0.58502 (95%-conf.int. 0.58502 - 0.58502)
+base_rand ROUGE-1 Average_P: 0.56976 (95%-conf.int. 0.56976 - 0.56976)
+base_rand ROUGE-1 Average_F: 0.57729 (95%-conf.int. 0.57729 - 0.57729)
+.............................................
+base_rand ROUGE-1 Eval systems.base_rand R:0.58502 P:0.56976 F:0.57729
+---------------------------------------------
+base_rand ROUGE-2 Average_R: 0.38512 (95%-conf.int. 0.38512 - 0.38512)
+base_rand ROUGE-2 Average_P: 0.37503 (95%-conf.int. 0.37503 - 0.37503)
+base_rand ROUGE-2 Average_F: 0.38001 (95%-conf.int. 0.38001 - 0.38001)
+.............................................
+base_rand ROUGE-2 Eval systems.base_rand R:0.38512 P:0.37503 F:0.38001
+---------------------------------------------
+base_rand ROUGE-SU4 Average_R: 0.41367 (95%-conf.int. 0.41367 - 0.41367)
+base_rand ROUGE-SU4 Average_P: 0.40275 (95%-conf.int. 0.40275 - 0.40275)
+base_rand ROUGE-SU4 Average_F: 0.40814 (95%-conf.int. 0.40814 - 0.40814)
+.............................................
+base_rand ROUGE-SU4 Eval systems.base_rand R:0.41367 P:0.40275 F:0.40814
+---------------------------------------------
+copernic ROUGE-1 Average_R: 0.72259 (95%-conf.int. 0.72259 - 0.72259)
+copernic ROUGE-1 Average_P: 0.62285 (95%-conf.int. 0.62285 - 0.62285)
+copernic ROUGE-1 Average_F: 0.66902 (95%-conf.int. 0.66902 - 0.66902)
+.............................................
+copernic ROUGE-1 Eval systems.copernic R:0.72259 P:0.62285 F:0.66902
+---------------------------------------------
+copernic ROUGE-2 Average_R: 0.58248 (95%-conf.int. 0.58248 - 0.58248)
+copernic ROUGE-2 Average_P: 0.50178 (95%-conf.int. 0.50178 - 0.50178)
+copernic ROUGE-2 Average_F: 0.53913 (95%-conf.int. 0.53913 - 0.53913)
+.............................................
+copernic ROUGE-2 Eval systems.copernic R:0.58248 P:0.50178 F:0.53913
+---------------------------------------------
+copernic ROUGE-SU4 Average_R: 0.59600 (95%-conf.int. 0.59600 - 0.59600)
+copernic ROUGE-SU4 Average_P: 0.51289 (95%-conf.int. 0.51289 - 0.51289)
+copernic ROUGE-SU4 Average_F: 0.55133 (95%-conf.int. 0.55133 - 0.55133)
+.............................................
+copernic ROUGE-SU4 Eval systems.copernic R:0.59600 P:0.51289 F:0.55133
+---------------------------------------------
+cortex ROUGE-1 Average_R: 0.72441 (95%-conf.int. 0.72441 - 0.72441)
+cortex ROUGE-1 Average_P: 0.59049 (95%-conf.int. 0.59049 - 0.59049)
+cortex ROUGE-1 Average_F: 0.65063 (95%-conf.int. 0.65063 - 0.65063)
+.............................................
+cortex ROUGE-1 Eval systems.cortex R:0.72441 P:0.59049 F:0.65063
+---------------------------------------------
+cortex ROUGE-2 Average_R: 0.57504 (95%-conf.int. 0.57504 - 0.57504)
+cortex ROUGE-2 Average_P: 0.46834 (95%-conf.int. 0.46834 - 0.46834)
+cortex ROUGE-2 Average_F: 0.51623 (95%-conf.int. 0.51623 - 0.51623)
+.............................................
+cortex ROUGE-2 Eval systems.cortex R:0.57504 P:0.46834 F:0.51623
+---------------------------------------------
+cortex ROUGE-SU4 Average_R: 0.59139 (95%-conf.int. 0.59139 - 0.59139)
+cortex ROUGE-SU4 Average_P: 0.48099 (95%-conf.int. 0.48099 - 0.48099)
+cortex ROUGE-SU4 Average_F: 0.53051 (95%-conf.int. 0.53051 - 0.53051)
+.............................................
+cortex ROUGE-SU4 Eval systems.cortex R:0.59139 P:0.48099 F:0.53051
+---------------------------------------------
+cortex_fix ROUGE-1 Average_R: 0.73672 (95%-conf.int. 0.73672 - 0.73672)
+cortex_fix ROUGE-1 Average_P: 0.58567 (95%-conf.int. 0.58567 - 0.58567)
+cortex_fix ROUGE-1 Average_F: 0.65257 (95%-conf.int. 0.65257 - 0.65257)
+.............................................
+cortex_fix ROUGE-1 Eval systems.cortex_fix R:0.73672 P:0.58567 F:0.65257
+---------------------------------------------
+cortex_fix ROUGE-2 Average_R: 0.58260 (95%-conf.int. 0.58260 - 0.58260)
+cortex_fix ROUGE-2 Average_P: 0.46272 (95%-conf.int. 0.46272 - 0.46272)
+cortex_fix ROUGE-2 Average_F: 0.51579 (95%-conf.int. 0.51579 - 0.51579)
+.............................................
+cortex_fix ROUGE-2 Eval systems.cortex_fix R:0.58260 P:0.46272 F:0.51579
+---------------------------------------------
+cortex_fix ROUGE-SU4 Average_R: 0.59752 (95%-conf.int. 0.59752 - 0.59752)
+cortex_fix ROUGE-SU4 Average_P: 0.47384 (95%-conf.int. 0.47384 - 0.47384)
+cortex_fix ROUGE-SU4 Average_F: 0.52854 (95%-conf.int. 0.52854 - 0.52854)
+.............................................
+cortex_fix ROUGE-SU4 Eval systems.cortex_fix R:0.59752 P:0.47384 F:0.52854
+---------------------------------------------
+enertex ROUGE-1 Average_R: 0.68464 (95%-conf.int. 0.68464 - 0.68464)
+enertex ROUGE-1 Average_P: 0.60402 (95%-conf.int. 0.60402 - 0.60402)
+enertex ROUGE-1 Average_F: 0.64181 (95%-conf.int. 0.64181 - 0.64181)
+.............................................
+enertex ROUGE-1 Eval systems.enertex R:0.68464 P:0.60402 F:0.64181
+---------------------------------------------
+enertex ROUGE-2 Average_R: 0.52662 (95%-conf.int. 0.52662 - 0.52662)
+enertex ROUGE-2 Average_P: 0.46437 (95%-conf.int. 0.46437 - 0.46437)
+enertex ROUGE-2 Average_F: 0.49354 (95%-conf.int. 0.49354 - 0.49354)
+.............................................
+enertex ROUGE-2 Eval systems.enertex R:0.52662 P:0.46437 F:0.49354
+---------------------------------------------
+enertex ROUGE-SU4 Average_R: 0.54125 (95%-conf.int. 0.54125 - 0.54125)
+enertex ROUGE-SU4 Average_P: 0.47685 (95%-conf.int. 0.47685 - 0.47685)
+enertex ROUGE-SU4 Average_F: 0.50701 (95%-conf.int. 0.50701 - 0.50701)
+.............................................
+enertex ROUGE-SU4 Eval systems.enertex R:0.54125 P:0.47685 F:0.50701
+---------------------------------------------
+enertex_fix ROUGE-1 Average_R: 0.73923 (95%-conf.int. 0.73923 - 0.73923)
+enertex_fix ROUGE-1 Average_P: 0.58354 (95%-conf.int. 0.58354 - 0.58354)
+enertex_fix ROUGE-1 Average_F: 0.65222 (95%-conf.int. 0.65222 - 0.65222)
+.............................................
+enertex_fix ROUGE-1 Eval systems.enertex_fix R:0.73923 P:0.58354 F:0.65222
+---------------------------------------------
+enertex_fix ROUGE-2 Average_R: 0.60137 (95%-conf.int. 0.60137 - 0.60137)
+enertex_fix ROUGE-2 Average_P: 0.47427 (95%-conf.int. 0.47427 - 0.47427)
+enertex_fix ROUGE-2 Average_F: 0.53031 (95%-conf.int. 0.53031 - 0.53031)
+.............................................
+enertex_fix ROUGE-2 Eval systems.enertex_fix R:0.60137 P:0.47427 F:0.53031
+---------------------------------------------
+enertex_fix ROUGE-SU4 Average_R: 0.61300 (95%-conf.int. 0.61300 - 0.61300)
+enertex_fix ROUGE-SU4 Average_P: 0.48267 (95%-conf.int. 0.48267 - 0.48267)
+enertex_fix ROUGE-SU4 Average_F: 0.54008 (95%-conf.int. 0.54008 - 0.54008)
+.............................................
+enertex_fix ROUGE-SU4 Eval systems.enertex_fix R:0.61300 P:0.48267 F:0.54008
+---------------------------------------------
+essential ROUGE-1 Average_R: 0.70709 (95%-conf.int. 0.70709 - 0.70709)
+essential ROUGE-1 Average_P: 0.60029 (95%-conf.int. 0.60029 - 0.60029)
+essential ROUGE-1 Average_F: 0.64933 (95%-conf.int. 0.64933 - 0.64933)
+.............................................
+essential ROUGE-1 Eval systems.essential R:0.70709 P:0.60029 F:0.64933
+---------------------------------------------
+essential ROUGE-2 Average_R: 0.54356 (95%-conf.int. 0.54356 - 0.54356)
+essential ROUGE-2 Average_P: 0.46115 (95%-conf.int. 0.46115 - 0.46115)
+essential ROUGE-2 Average_F: 0.49898 (95%-conf.int. 0.49898 - 0.49898)
+.............................................
+essential ROUGE-2 Eval systems.essential R:0.54356 P:0.46115 F:0.49898
+---------------------------------------------
+essential ROUGE-SU4 Average_R: 0.56474 (95%-conf.int. 0.56474 - 0.56474)
+essential ROUGE-SU4 Average_P: 0.47858 (95%-conf.int. 0.47858 - 0.47858)
+essential ROUGE-SU4 Average_F: 0.51810 (95%-conf.int. 0.51810 - 0.51810)
+.............................................
+essential ROUGE-SU4 Eval systems.essential R:0.56474 P:0.47858 F:0.51810
+---------------------------------------------
+grasp ROUGE-1 Average_R: 0.51356 (95%-conf.int. 0.51356 - 0.51356)
+grasp ROUGE-1 Average_P: 0.59864 (95%-conf.int. 0.59864 - 0.59864)
+grasp ROUGE-1 Average_F: 0.55285 (95%-conf.int. 0.55285 - 0.55285)
+.............................................
+grasp ROUGE-1 Eval systems.grasp R:0.51356 P:0.59864 F:0.55285
+---------------------------------------------
+grasp ROUGE-2 Average_R: 0.33807 (95%-conf.int. 0.33807 - 0.33807)
+grasp ROUGE-2 Average_P: 0.39436 (95%-conf.int. 0.39436 - 0.39436)
+grasp ROUGE-2 Average_F: 0.36405 (95%-conf.int. 0.36405 - 0.36405)
+.............................................
+grasp ROUGE-2 Eval systems.grasp R:0.33807 P:0.39436 F:0.36405
+---------------------------------------------
+grasp ROUGE-SU4 Average_R: 0.36159 (95%-conf.int. 0.36159 - 0.36159)
+grasp ROUGE-SU4 Average_P: 0.42234 (95%-conf.int. 0.42234 - 0.42234)
+grasp ROUGE-SU4 Average_F: 0.38961 (95%-conf.int. 0.38961 - 0.38961)
+.............................................
+grasp ROUGE-SU4 Eval systems.grasp R:0.36159 P:0.42234 F:0.38961
+---------------------------------------------
+kl_summ ROUGE-1 Average_R: 0.73535 (95%-conf.int. 0.73535 - 0.73535)
+kl_summ ROUGE-1 Average_P: 0.56656 (95%-conf.int. 0.56656 - 0.56656)
+kl_summ ROUGE-1 Average_F: 0.64001 (95%-conf.int. 0.64001 - 0.64001)
+.............................................
+kl_summ ROUGE-1 Eval systems.kl_summ R:0.73535 P:0.56656 F:0.64001
+---------------------------------------------
+kl_summ ROUGE-2 Average_R: 0.58489 (95%-conf.int. 0.58489 - 0.58489)
+kl_summ ROUGE-2 Average_P: 0.45017 (95%-conf.int. 0.45017 - 0.45017)
+kl_summ ROUGE-2 Average_F: 0.50876 (95%-conf.int. 0.50876 - 0.50876)
+.............................................
+kl_summ ROUGE-2 Eval systems.kl_summ R:0.58489 P:0.45017 F:0.50876
+---------------------------------------------
+kl_summ ROUGE-SU4 Average_R: 0.60261 (95%-conf.int. 0.60261 - 0.60261)
+kl_summ ROUGE-SU4 Average_P: 0.46302 (95%-conf.int. 0.46302 - 0.46302)
+kl_summ ROUGE-SU4 Average_F: 0.52367 (95%-conf.int. 0.52367 - 0.52367)
+.............................................
+kl_summ ROUGE-SU4 Eval systems.kl_summ R:0.60261 P:0.46302 F:0.52367
+---------------------------------------------
+kl_summ_fix ROUGE-1 Average_R: 0.74675 (95%-conf.int. 0.74675 - 0.74675)
+kl_summ_fix ROUGE-1 Average_P: 0.61091 (95%-conf.int. 0.61091 - 0.61091)
+kl_summ_fix ROUGE-1 Average_F: 0.67203 (95%-conf.int. 0.67203 - 0.67203)
+.............................................
+kl_summ_fix ROUGE-1 Eval systems.kl_summ_fix R:0.74675 P:0.61091 F:0.67203
+---------------------------------------------
+kl_summ_fix ROUGE-2 Average_R: 0.58970 (95%-conf.int. 0.58970 - 0.58970)
+kl_summ_fix ROUGE-2 Average_P: 0.48203 (95%-conf.int. 0.48203 - 0.48203)
+kl_summ_fix ROUGE-2 Average_F: 0.53046 (95%-conf.int. 0.53046 - 0.53046)
+.............................................
+kl_summ_fix ROUGE-2 Eval systems.kl_summ_fix R:0.58970 P:0.48203 F:0.53046
+---------------------------------------------
+kl_summ_fix ROUGE-SU4 Average_R: 0.60492 (95%-conf.int. 0.60492 - 0.60492)
+kl_summ_fix ROUGE-SU4 Average_P: 0.49380 (95%-conf.int. 0.49380 - 0.49380)
+kl_summ_fix ROUGE-SU4 Average_F: 0.54374 (95%-conf.int. 0.54374 - 0.54374)
+.............................................
+kl_summ_fix ROUGE-SU4 Eval systems.kl_summ_fix R:0.60492 P:0.49380 F:0.54374
+---------------------------------------------
+ots ROUGE-1 Average_R: 0.73194 (95%-conf.int. 0.73194 - 0.73194)
+ots ROUGE-1 Average_P: 0.59233 (95%-conf.int. 0.59233 - 0.59233)
+ots ROUGE-1 Average_F: 0.65478 (95%-conf.int. 0.65478 - 0.65478)
+.............................................
+ots ROUGE-1 Eval systems.ots R:0.73194 P:0.59233 F:0.65478
+---------------------------------------------
+ots ROUGE-2 Average_R: 0.59439 (95%-conf.int. 0.59439 - 0.59439)
+ots ROUGE-2 Average_P: 0.48061 (95%-conf.int. 0.48061 - 0.48061)
+ots ROUGE-2 Average_F: 0.53148 (95%-conf.int. 0.53148 - 0.53148)
+.............................................
+ots ROUGE-2 Eval systems.ots R:0.59439 P:0.48061 F:0.53148
+---------------------------------------------
+ots ROUGE-SU4 Average_R: 0.60465 (95%-conf.int. 0.60465 - 0.60465)
+ots ROUGE-SU4 Average_P: 0.48820 (95%-conf.int. 0.48820 - 0.48820)
+ots ROUGE-SU4 Average_F: 0.54022 (95%-conf.int. 0.54022 - 0.54022)
+.............................................
+ots ROUGE-SU4 Eval systems.ots R:0.60465 P:0.48820 F:0.54022
+---------------------------------------------
+pertinence ROUGE-1 Average_R: 0.62207 (95%-conf.int. 0.62207 - 0.62207)
+pertinence ROUGE-1 Average_P: 0.56204 (95%-conf.int. 0.56204 - 0.56204)
+pertinence ROUGE-1 Average_F: 0.59053 (95%-conf.int. 0.59053 - 0.59053)
+.............................................
+pertinence ROUGE-1 Eval systems.pertinence R:0.62207 P:0.56204 F:0.59053
+---------------------------------------------
+pertinence ROUGE-2 Average_R: 0.42725 (95%-conf.int. 0.42725 - 0.42725)
+pertinence ROUGE-2 Average_P: 0.38586 (95%-conf.int. 0.38586 - 0.38586)
+pertinence ROUGE-2 Average_F: 0.40550 (95%-conf.int. 0.40550 - 0.40550)
+.............................................
+pertinence ROUGE-2 Eval systems.pertinence R:0.42725 P:0.38586 F:0.40550
+---------------------------------------------
+pertinence ROUGE-SU4 Average_R: 0.45871 (95%-conf.int. 0.45871 - 0.45871)
+pertinence ROUGE-SU4 Average_P: 0.41397 (95%-conf.int. 0.41397 - 0.41397)
+pertinence ROUGE-SU4 Average_F: 0.43519 (95%-conf.int. 0.43519 - 0.43519)
+.............................................
+pertinence ROUGE-SU4 Eval systems.pertinence R:0.45871 P:0.41397 F:0.43519
+---------------------------------------------
+reg ROUGE-1 Average_R: 0.69672 (95%-conf.int. 0.69672 - 0.69672)
+reg ROUGE-1 Average_P: 0.60519 (95%-conf.int. 0.60519 - 0.60519)
+reg ROUGE-1 Average_F: 0.64774 (95%-conf.int. 0.64774 - 0.64774)
+.............................................
+reg ROUGE-1 Eval systems.reg R:0.69672 P:0.60519 F:0.64774
+---------------------------------------------
+reg ROUGE-2 Average_R: 0.56062 (95%-conf.int. 0.56062 - 0.56062)
+reg ROUGE-2 Average_P: 0.48668 (95%-conf.int. 0.48668 - 0.48668)
+reg ROUGE-2 Average_F: 0.52104 (95%-conf.int. 0.52104 - 0.52104)
+.............................................
+reg ROUGE-2 Eval systems.reg R:0.56062 P:0.48668 F:0.52104
+---------------------------------------------
+reg ROUGE-SU4 Average_R: 0.57505 (95%-conf.int. 0.57505 - 0.57505)
+reg ROUGE-SU4 Average_P: 0.49872 (95%-conf.int. 0.49872 - 0.49872)
+reg ROUGE-SU4 Average_F: 0.53417 (95%-conf.int. 0.53417 - 0.53417)
+.............................................
+reg ROUGE-SU4 Eval systems.reg R:0.57505 P:0.49872 F:0.53417
+---------------------------------------------
+reg_fix ROUGE-1 Average_R: 0.72931 (95%-conf.int. 0.72931 - 0.72931)
+reg_fix ROUGE-1 Average_P: 0.57370 (95%-conf.int. 0.57370 - 0.57370)
+reg_fix ROUGE-1 Average_F: 0.64221 (95%-conf.int. 0.64221 - 0.64221)
+.............................................
+reg_fix ROUGE-1 Eval systems.reg_fix R:0.72931 P:0.57370 F:0.64221
+---------------------------------------------
+reg_fix ROUGE-2 Average_R: 0.56852 (95%-conf.int. 0.56852 - 0.56852)
+reg_fix ROUGE-2 Average_P: 0.44678 (95%-conf.int. 0.44678 - 0.44678)
+reg_fix ROUGE-2 Average_F: 0.50035 (95%-conf.int. 0.50035 - 0.50035)
+.............................................
+reg_fix ROUGE-2 Eval systems.reg_fix R:0.56852 P:0.44678 F:0.50035
+---------------------------------------------
+reg_fix ROUGE-SU4 Average_R: 0.58693 (95%-conf.int. 0.58693 - 0.58693)
+reg_fix ROUGE-SU4 Average_P: 0.46051 (95%-conf.int. 0.46051 - 0.46051)
+reg_fix ROUGE-SU4 Average_F: 0.51609 (95%-conf.int. 0.51609 - 0.51609)
+.............................................
+reg_fix ROUGE-SU4 Eval systems.reg_fix R:0.58693 P:0.46051 F:0.51609
+---------------------------------------------
+rfabre ROUGE-1 Average_R: 0.54171 (95%-conf.int. 0.54171 - 0.54171)
+rfabre ROUGE-1 Average_P: 0.51423 (95%-conf.int. 0.51423 - 0.51423)
+rfabre ROUGE-1 Average_F: 0.52761 (95%-conf.int. 0.52761 - 0.52761)
+.............................................
+rfabre ROUGE-1 Eval systems.rfabre R:0.54171 P:0.51423 F:0.52761
+---------------------------------------------
+rfabre ROUGE-2 Average_R: 0.29948 (95%-conf.int. 0.29948 - 0.29948)
+rfabre ROUGE-2 Average_P: 0.28422 (95%-conf.int. 0.28422 - 0.28422)
+rfabre ROUGE-2 Average_F: 0.29165 (95%-conf.int. 0.29165 - 0.29165)
+.............................................
+rfabre ROUGE-2 Eval systems.rfabre R:0.29948 P:0.28422 F:0.29165
+---------------------------------------------
+rfabre ROUGE-SU4 Average_R: 0.33954 (95%-conf.int. 0.33954 - 0.33954)
+rfabre ROUGE-SU4 Average_P: 0.32212 (95%-conf.int. 0.32212 - 0.32212)
+rfabre ROUGE-SU4 Average_F: 0.33060 (95%-conf.int. 0.33060 - 0.33060)
+.............................................
+rfabre ROUGE-SU4 Eval systems.rfabre R:0.33954 P:0.32212 F:0.33060
+---------------------------------------------
+swesum ROUGE-1 Average_R: 0.46740 (95%-conf.int. 0.46740 - 0.46740)
+swesum ROUGE-1 Average_P: 0.60783 (95%-conf.int. 0.60783 - 0.60783)
+swesum ROUGE-1 Average_F: 0.52844 (95%-conf.int. 0.52844 - 0.52844)
+.............................................
+swesum ROUGE-1 Eval systems.swesum R:0.46740 P:0.60783 F:0.52844
+---------------------------------------------
+swesum ROUGE-2 Average_R: 0.31505 (95%-conf.int. 0.31505 - 0.31505)
+swesum ROUGE-2 Average_P: 0.41026 (95%-conf.int. 0.41026 - 0.41026)
+swesum ROUGE-2 Average_F: 0.35641 (95%-conf.int. 0.35641 - 0.35641)
+.............................................
+swesum ROUGE-2 Eval systems.swesum R:0.31505 P:0.41026 F:0.35641
+---------------------------------------------
+swesum ROUGE-SU4 Average_R: 0.33570 (95%-conf.int. 0.33570 - 0.33570)
+swesum ROUGE-SU4 Average_P: 0.43813 (95%-conf.int. 0.43813 - 0.43813)
+swesum ROUGE-SU4 Average_F: 0.38014 (95%-conf.int. 0.38014 - 0.38014)
+.............................................
+swesum ROUGE-SU4 Eval systems.swesum R:0.33570 P:0.43813 F:0.38014
+---------------------------------------------
+word ROUGE-1 Average_R: 0.41247 (95%-conf.int. 0.41247 - 0.41247)
+word ROUGE-1 Average_P: 0.57997 (95%-conf.int. 0.57997 - 0.57997)
+word ROUGE-1 Average_F: 0.48209 (95%-conf.int. 0.48209 - 0.48209)
+.............................................
+word ROUGE-1 Eval systems.word R:0.41247 P:0.57997 F:0.48209
+---------------------------------------------
+word ROUGE-2 Average_R: 0.23950 (95%-conf.int. 0.23950 - 0.23950)
+word ROUGE-2 Average_P: 0.33736 (95%-conf.int. 0.33736 - 0.33736)
+word ROUGE-2 Average_F: 0.28013 (95%-conf.int. 0.28013 - 0.28013)
+.............................................
+word ROUGE-2 Eval systems.word R:0.23950 P:0.33736 F:0.28013
+---------------------------------------------
+word ROUGE-SU4 Average_R: 0.26492 (95%-conf.int. 0.26492 - 0.26492)
+word ROUGE-SU4 Average_P: 0.37432 (95%-conf.int. 0.37432 - 0.37432)
+word ROUGE-SU4 Average_F: 0.31026 (95%-conf.int. 0.31026 - 0.31026)
+.............................................
+word ROUGE-SU4 Eval systems.word R:0.26492 P:0.37432 F:0.31026

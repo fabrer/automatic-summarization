@@ -1,0 +1,29 @@
+<FRESA version="1.0">
+
+<EVAL ID="J'accuse 25 frases">
+<TEXTE-ROOT>./Textes/</TEXTE-ROOT>
+<SUMM-ROOT>./Resumes/jaccuse/</SUMM-ROOT>
+<TEXTE>jaccuse.txt</TEXTE>
+<SUMMARIZERS>
+	<SUMM ID="essential" TXT="jaccuse_essential.txt"/>
+	<SUMM ID="artex_ngramm" TXT="jaccuse.txt_artex_-s25_ngramm.txt"/>
+	<SUMM ID="kl_summ" TXT="jaccuse.txt_divergence_-s25.txt"/>
+	<SUMM ID="artex" TXT="jaccuse.txt_artex_-s25.txt"/>
+	<SUMM ID="artex_raw" TXT="jaccuse.txt_artex_bigrammes_-s25_raw.txt"/>
+	<SUMM ID="reg" TXT="jaccuse.txt_reg_-s25.txt"/>
+	<SUMM ID="cortex" TXT="jaccuse.txt_cortex_-s25.txt"/>
+	<SUMM ID="enertex" TXT="jaccuse.txt_enertex_-s25.txt"/>
+	<SUMM ID="base_rand" TXT="resume_jaccuse_baseline_ale.txt"/>
+	<SUMM ID="base_prim" TXT="resume_jaccuse_baseline_prim.txt"/>
+	<SUMM ID="word" TXT="resume_jaccuse_word.txt"/>
+	<SUMM ID="copernic" TXT="resume_jaccuse_copernic.txt"/>
+	<SUMM ID="ots" TXT="resume_jaccuse_ots.txt"/>
+	<SUMM ID="pertinence" TXT="resume_jaccuse_pertinence.txt"/>
+	<SUMM ID="swesum" TXT="resume_jaccuse_swesum.txt"/>
+	<SUMM ID="cortex_n1" TXT="jaccuse.txt_cortex_-s25_n1.txt"/>
+	<SUMM ID="cortex_1" TXT="jaccuse.txt_cortex_-s25_1.txt"/>
+	<SUMM ID="artex_1" TXT="jaccuse.txt_artex_bigrammes_-s25_1c.txt"/>
+</SUMMARIZERS>
+</EVAL>
+
+</FRESA>

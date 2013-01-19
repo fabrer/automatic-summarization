@@ -1,0 +1,22 @@
+<ROUGE_EVAL version="1.5.5">
+
+<EVAL ID="systems">
+<PEER-ROOT>
+./Resumes/DUC2004
+</PEER-ROOT>
+<MODEL-ROOT>
+./Models/DUC2004
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+	<P ID="rfabre">resume_cluster_d30010t.txt</P>
+</PEERS>
+<MODELS>
+<M ID="h1">D30010.M.100.T.B</M>
+</MODELS>
+</EVAL>
+
+
+
+</ROUGE_EVAL>

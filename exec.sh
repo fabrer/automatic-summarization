@@ -23,6 +23,7 @@ for f in $(find $folder -iname "*.txt");
     ./fonctionnel.pl $prefix/$a/$a.fil $prefix/$a/$a.fon $langue
     echo "Quel stemmer voulez vous utiliser ? (1 pour l'ultra-stemming / 2 pour Porter)"
     read stemmer
-    ./normalise.pl $prefix/$a/$a.fon $prefix/$a/$a.lemm $langue $stemmer
+    ./normalise.pl $prefix/$a/$a.fon $prefix/$a/$a.stem $langue $stemmer
+    ./vectoriel.pl $prefix/$a/$a.stem $prefix/$a/matrice_$a.mat
     #./PACKAGE_ROUGE_FRESA/fresa.sh  $f
   done
